@@ -87,7 +87,6 @@ SRC_URI = "git://github.com/rhinstaller/anaconda;protocol=https;branch=f34-relea
            file://0047-remove-incorrect-prefix-of-addon-repo-url.patch \
            file://0048-fix-write-sysconfig-network-failed.patch \
            file://0049-pyanaconda-ui-gui-utils.py-tweak-mouse-arrow.patch \
-           file://0050-tweak-search-location-of-new-kernel-pkg.patch \
            file://0052-invoke-grub-install-to-generate-efi-filesystem.patch \
            file://0053-do-not-support-closest-mirror.patch \
            file://0054-tweak-MAX_TREEINFO_DOWNLOAD_RETRIES.patch \
